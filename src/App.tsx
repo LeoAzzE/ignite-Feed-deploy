@@ -26,7 +26,7 @@ const posts: Posts[] = [
     id: 1,
     author: {
       avatarUrl: 'https://github.com/LeoAzzE.png',
-      name: 'Leo Azevedo',
+      name: 'Borges',
       role: 'Student'
     },
     content: [
